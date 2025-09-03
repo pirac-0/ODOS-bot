@@ -1,0 +1,13 @@
+# ไฟล์ Python Cache
+__pycache__/
+*.pyc
+
+# Token และไฟล์ความลับ
+*.env
+token.txt
+
+# Replit
+.replit
+
+.vscode/
+botODOS/venv/
